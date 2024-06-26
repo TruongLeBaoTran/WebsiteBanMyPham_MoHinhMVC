@@ -14,6 +14,7 @@
 - 
 
 ## Các tính năng trang CỬA HÀNG:
+- Đăng kí, đăng nhập
 - Hiển thị danh sách sản phẩm theo tất cả hoặc theo 1 loại cụ thể
 - Phân trang
 - Thêm sản phẩm vào giỏ hàng, cập nhật số lượng 1 sản phẩm trong giỏ hàng, xóa 1 sản phẩm ra khỏi giỏ hàng, xóa tất cả sản phẩm ra khỏi giỏ hàng (Ajax API)
