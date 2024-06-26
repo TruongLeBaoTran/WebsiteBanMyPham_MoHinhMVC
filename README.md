@@ -5,15 +5,16 @@
 - Thiết kế giao diện và CSDL
 - Kết nối CSDL bằng EF Code First hiển thị sản phẩm lên trang user và admin, thao tác thêm, xoá, sửa sản phẩm
 
-## Thiết kế giao diện
-## Các tính năng trang ADMIN:
+## Tổng Quan Tất Cả Chức Năng:
+### Thiết kế giao diện
+### Các tính năng trang ADMIN:
 - Hiển thị danh sách sản phẩm, thêm, xóa, sửa, xem chi tiết 1 sản phẩm
 - Phân trang, sắp xếp, tìm kiếm
 - Hiển thị danh sách các tài khoản người dùng
 - Hiển thị danh sách các đơn hàng, tính tổng doanh thu, tổng đơn hàng đã đặt,...Cho phép xóa, cập nhật đơn hàng
 - 
 
-## Các tính năng trang CỬA HÀNG:
+### Các tính năng trang CỬA HÀNG:
 - Đăng kí, đăng nhập
 - Hiển thị danh sách sản phẩm theo tất cả hoặc theo 1 loại cụ thể
 - Phân trang
