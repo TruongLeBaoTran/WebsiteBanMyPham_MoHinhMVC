@@ -1,5 +1,5 @@
 ﻿# WebsiteBanMyPham_MoHinhMVC
-### Công nghệ sử dụng HTML, CSS, Bootstrap, ASP .NET C#, mô hình MVC, SQL Server (EF Code First)
+### Công nghệ sử dụng: ASP.NET MVC, HTML, CSS, Bootstrap, SQL Server (EF Code First)
 ### Thực hiện: Nhóm 4 thành viên
 ### Chức năng đảm nhận: 
 - Thiết kế giao diện và CSDL
